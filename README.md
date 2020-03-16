@@ -1,4 +1,4 @@
 # Hoja de VidaLocalStorage
 
-Nombre: Daniel Santiago Rubiano Pulido\n
+Nombre: Daniel Santiago Rubiano Pulido<br>
 Código: 20171020075
