@@ -1,0 +1,57 @@
+body {
+	background-color: #E47196;
+}
+
+div#general{
+	margin:auto;
+	width:100%;
+	height:100%;
+	background-color: #E47196;
+}
+
+div#izquierda{
+	width: 500px;
+	height:100%;
+	background-color: #E47196;
+	float: left;
+}
+
+div#derecha{
+	width: 500px;
+	height:100%;
+	background-color: #E47196;
+	float: right;
+}
+
+h1 {
+	color: black;
+	font-size: 25px;
+}
+
+table {
+	border-collapse: collapse;
+	font-size: 15px;
+	width:500px;
+}
+
+table, td, tr, th {
+	border: 1px solid crimson;
+	height:50px;
+}
+
+input {
+	border: 1px solid black;
+	border-radius: 4px;
+	width:300px;
+	height:40px;
+	background-color: #E47196;
+	margin: 4px 4px;
+	padding: 8px 10px;
+}
+
+button {
+	background-color: #E47196;
+	border: 1px solid black;
+	width:100px;
+	height:30px;
+}
